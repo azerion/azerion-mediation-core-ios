@@ -1,0 +1,6 @@
+framework module AzerionAdsMediationCore {
+  umbrella header "AzerionAdsMediationCore.h"
+
+  export *
+  module * { export * }
+}
